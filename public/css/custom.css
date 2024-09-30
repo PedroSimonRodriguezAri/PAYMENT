@@ -1,0 +1,9 @@
+.preloader {
+    background-color: #d3c123; /
+}
+
+
+.preloader img.animation__shake {
+    animation: none; 
+    transition: transform 1s ease-in-out;
+}
